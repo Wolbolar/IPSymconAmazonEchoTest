@@ -1,0 +1,11 @@
+{
+	"id": "{112A6FCE-1ACA-405D-A630-31D9867AE1D2}",
+	"name": "AmazonEchoKonfigurator",
+	"type": 4,
+	"vendor": "Amazon",
+	"aliases": ["Amazon Echo Konfigurator"],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "AmazonEcho"
+}

@@ -1,0 +1,24 @@
+{
+	"elements":
+	[
+		{ "type": "Label", "label": "For configuration of Amazon Echo with this configurator IP-Symcon 4.1 is necessary" }
+	],	
+    "status":
+            [
+                {
+                    "code": 101,
+                    "icon": "inactive",
+                    "caption": "creating instance."
+                },
+				{
+                    "code": 102,
+                    "icon": "active",
+                    "caption": "instance created."
+                },
+                {
+                    "code": 104,
+                    "icon": "inactive",
+                    "caption": "interface closed."
+                }
+            ]
+}

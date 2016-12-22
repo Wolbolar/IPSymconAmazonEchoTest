@@ -116,7 +116,7 @@
 			}
 		}	
 		
-		protected function WriteConfig()
+		public function WriteConfig()
 		{
 			$countinstance = $this->ReadPropertyInteger("countinstance");
 			$config = array();
